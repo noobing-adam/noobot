@@ -1,2 +1,0 @@
-# noobot
-My Discord Bot
